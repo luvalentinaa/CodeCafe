@@ -1,2 +1,11 @@
-# CodeCafe    <img src="src/imagem/imagens/4.jpg" width="350px">
-Projeto Lange Page 
+# CodeCafe    <img src="/src/img/images/favicon.ico">
+
+Projeto Lange Page site de Café Gourmet
+
+<img src="">
+
+
+- ## Linguagens utilisadas 
+- html
+- css
+
