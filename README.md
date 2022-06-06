@@ -4,7 +4,7 @@
 
 Projeto Lange Page site de Café Gourmet
 
-<img src="/src/img/images/1.jpg">    <img src="/src/img/images/2.jpg">
+<img src="Screenshot_5.png">    <img src="/src/img/images/2.jpg">
 
 - ## Linguagens utilisadas 
 - html
